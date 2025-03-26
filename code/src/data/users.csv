@@ -1,0 +1,3 @@
+user_id,username,email,password_hash,created_at,last_login
+bc165239-ad7a-4cc8-a2fa-91a7ba5af8ed,aditya96,adityasingh.aks96@gmail.com,5133b9bad02770a9c250df5af0e945d3c56ffaee3f4175d3b5a54340a803e034,2025-03-26T13:24:34.495311,2025-03-26T16:31:57.996700
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,adityasingh,aditya.singh@gmail.com,d41ca9b3ff93b24da439c32ab28c24fd03220fbee13d3c4650f20125172ae72d,2025-03-26T17:04:55.492830,2025-03-26T20:08:49.871989

@@ -1,0 +1,144 @@
+user_id,timestamp,interaction_type,product_name,feedback_score,clicked,selected,features,tags
+sample_user_1,2024-03-20T10:00:00,view,Basic Savings Account,0.8,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_1,2024-03-20T10:01:00,view,Premium Checking Account,0.7,True,False,"FDIC insured,Free checks,ATM fee reimbursement,Wire transfers,Priority customer service","premium,checking,everyday banking,digital"
+sample_user_1,2024-03-20T10:02:00,view,High-Yield Savings Account,0.0,True,True,"FDIC insured,High interest rate,No monthly fees,Online access,Mobile banking","savings,high-yield,everyday banking,digital"
+sample_user_1,2024-03-20T10:03:00,view,Retirement IRA,0.6,True,False,"Tax-deferred growth,Investment options,Professional management,Retirement planning,Portfolio diversification","retirement,investment,long-term,tax-advantaged"
+sample_user_1,2024-03-20T10:04:00,view,Investment Portfolio,0.5,True,False,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_1,2024-03-20T10:05:00,view,Premium Credit Card,0.4,True,False,"Travel rewards,Cash back,Concierge service,Airport lounge access,Extended warranty","credit,rewards,travel,premium"
+sample_user_1,2024-03-20T10:06:00,view,Premium Business Loan,0.3,True,False,"Flexible terms,Competitive rates,Quick approval,No prepayment penalty,Business support","business,loans,commercial,financing"
+sample_user_1,2024-03-20T10:07:00,view,Student Loan Refinancing,0.2,True,False,"Competitive rates,Flexible terms,No prepayment penalty,Cosigner release option,Rate reduction for autopay","student,loans,refinancing,education"
+sample_user_1,2024-03-20T10:08:00,view,Premium Trust Services,0.1,True,False,"Asset management,Beneficiary services,Trust administration,Reporting services,Legal compliance","trust,management,premium,legal"
+sample_user_2,2024-03-20T11:00:00,view,Basic Savings Account,0.6,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_2,2024-03-20T11:01:00,view,Premium Checking Account,0.8,True,True,"FDIC insured,Free checks,ATM fee reimbursement,Wire transfers,Priority customer service","premium,checking,everyday banking,digital"
+sample_user_2,2024-03-20T11:02:00,view,High-Yield Savings Account,0.0,True,False,"FDIC insured,High interest rate,No monthly fees,Online access,Mobile banking","savings,high-yield,everyday banking,digital"
+sample_user_2,2024-03-20T11:03:00,view,Retirement IRA,0.9,True,True,"Tax-deferred growth,Investment options,Professional management,Retirement planning,Portfolio diversification","retirement,investment,long-term,tax-advantaged"
+sample_user_2,2024-03-20T11:04:00,view,Investment Portfolio,0.8,True,True,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_2,2024-03-20T11:05:00,view,Premium Credit Card,0.7,True,False,"Travel rewards,Cash back,Concierge service,Airport lounge access,Extended warranty","credit,rewards,travel,premium"
+sample_user_2,2024-03-20T11:06:00,view,Robo-Advisor Portfolio,0.4,True,False,"Low fees,Portfolio rebalancing,Tax-loss harvesting,Goal-based investing,Regular reporting","robo-advisor,investment,automated,digital"
+sample_user_2,2024-03-20T11:07:00,view,Basic Checking Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,Basic features","checking,basic,everyday banking,digital"
+sample_user_2,2024-03-20T11:08:00,view,Student Banking Account,0.2,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_3,2024-03-20T12:00:00,view,Basic Savings Account,0.9,True,True,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_3,2024-03-20T12:01:00,view,High-Yield Savings Account,0.0,True,True,"FDIC insured,High interest rate,No monthly fees,Online access,Mobile banking","savings,high-yield,everyday banking,digital"
+sample_user_3,2024-03-20T12:02:00,view,Student Loan Refinancing,0.7,True,False,"Competitive rates,Flexible terms,No prepayment penalty,Cosigner release option,Rate reduction for autopay","student,loans,refinancing,education"
+sample_user_3,2024-03-20T12:03:00,view,Money Market Account,0.6,True,False,"FDIC insured,Check writing,Debit card access,Online banking,Mobile app","money market,high-yield,savings,digital"
+sample_user_3,2024-03-20T12:04:00,view,Student Banking Account,0.5,True,True,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_3,2024-03-20T12:05:00,view,Basic Checking Account,0.4,True,False,"FDIC insured,Online banking,Mobile app,Basic features","checking,basic,everyday banking,digital"
+sample_user_3,2024-03-20T12:06:00,view,Premium Credit Card,0.3,True,False,"Travel rewards,Cash back,Concierge service,Airport lounge access,Extended warranty","credit,rewards,travel,premium"
+sample_user_3,2024-03-20T12:07:00,view,Investment Portfolio,0.2,True,False,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_4,2024-03-20T13:00:00,view,Premium Wealth Management,0.9,True,True,"Financial planning,Investment management,Tax planning,Estate planning,Retirement planning","wealth,management,premium,advisory"
+sample_user_4,2024-03-20T13:01:00,view,Tax Planning Service,0.3166666666666666,True,True,"Tax return preparation,Tax strategy planning,Audit support,Quarterly reviews,Documentation assistance","tax,planning,professional,advisory"
+sample_user_4,2024-03-20T13:02:00,view,Premium Trust Services,0.7,True,False,"Asset management,Beneficiary services,Trust administration,Reporting services,Legal compliance","trust,management,premium,legal"
+sample_user_4,2024-03-20T13:03:00,view,Premium Investment Advisory,0.6,True,True,"Portfolio management,Market analysis,Investment strategy,Regular reviews,Performance reporting","investment,advisory,premium,professional"
+sample_user_4,2024-03-20T13:04:00,view,Basic Tax Service,0.5,True,False,"Basic tax preparation,Online filing,Document storage,Basic support","tax,preparation,basic,digital"
+sample_user_4,2024-03-20T13:05:00,view,Student Banking Account,0.4,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_4,2024-03-20T13:06:00,view,Basic Savings Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_5,2024-03-20T14:00:00,view,Investment Portfolio,0.9,True,True,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_5,2024-03-20T14:01:00,view,Robo-Advisor Portfolio,0.8,True,True,"Low fees,Portfolio rebalancing,Tax-loss harvesting,Goal-based investing,Regular reporting","robo-advisor,investment,automated,digital"
+sample_user_5,2024-03-20T14:02:00,view,Premium Investment Advisory,0.7,True,False,"Portfolio management,Market analysis,Investment strategy,Regular reviews,Performance reporting","investment,advisory,premium,professional"
+sample_user_5,2024-03-20T14:03:00,view,Premium Wealth Management,0.6,True,True,"Financial planning,Investment management,Tax planning,Estate planning,Retirement planning","wealth,management,premium,advisory"
+sample_user_5,2024-03-20T14:04:00,view,Basic Investment Account,0.5,True,False,"Basic portfolio management,Online trading,Research tools,Basic support","investment,basic,digital"
+sample_user_5,2024-03-20T14:05:00,view,Student Banking Account,0.4,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_5,2024-03-20T14:06:00,view,Basic Savings Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_6,2024-03-20T15:00:00,view,Basic Savings Account,0.8,True,True,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_6,2024-03-20T15:01:00,view,Student Loan Refinancing,0.7,True,False,"Competitive rates,Flexible terms,No prepayment penalty,Cosigner release option,Rate reduction for autopay","student,loans,refinancing,education"
+sample_user_6,2024-03-20T15:02:00,view,Health Savings Account,0.6,True,False,"Tax-free contributions,Tax-free withdrawals,Investment options,Portable account,Family coverage","health,savings,tax-advantaged,healthcare"
+sample_user_6,2024-03-20T15:03:00,view,Student Banking Account,0.5,True,True,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_6,2024-03-20T15:04:00,view,Basic Checking Account,0.4,True,False,"FDIC insured,Online banking,Mobile app,Basic features","checking,basic,everyday banking,digital"
+sample_user_6,2024-03-20T15:05:00,view,Premium Credit Card,0.3,True,False,"Travel rewards,Cash back,Concierge service,Airport lounge access,Extended warranty","credit,rewards,travel,premium"
+sample_user_6,2024-03-20T15:06:00,view,Investment Portfolio,0.2,True,False,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_7,2024-03-20T16:00:00,view,Premium Business Banking,0.9,True,True,"Free transactions,Business credit card,Payroll services,Merchant services,Business support","business,banking,premium,commercial"
+sample_user_7,2024-03-20T16:01:00,view,Premium Business Advisory,0.8,True,True,"Business advisory,Financial analysis,Strategy development,Market research,Performance optimization","business,advisory,premium,professional"
+sample_user_7,2024-03-20T16:02:00,view,Premium Business Loan,0.7,True,False,"Flexible terms,Competitive rates,Quick approval,No prepayment penalty,Business support","business,loans,commercial,financing"
+sample_user_7,2024-03-20T16:03:00,view,Premium Wealth Management,0.6,True,True,"Financial planning,Investment management,Tax planning,Estate planning,Retirement planning","wealth,management,premium,advisory"
+sample_user_7,2024-03-20T16:04:00,view,Basic Business Account,0.5,True,False,"Basic business banking,Online access,Mobile app,Basic support","business,banking,basic,digital"
+sample_user_7,2024-03-20T16:05:00,view,Student Banking Account,0.4,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_7,2024-03-20T16:06:00,view,Basic Savings Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_8,2024-03-20T17:00:00,view,Basic Savings Account,0.7,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_8,2024-03-20T17:01:00,view,Premium Mortgage Service,0.8,True,True,"Competitive rates,Flexible terms,Quick approval,Online application,Rate lock guarantee","mortgage,loans,real estate,premium"
+sample_user_8,2024-03-20T17:02:00,view,Retirement IRA,0.6,True,False,"Tax-deferred growth,Investment options,Professional management,Retirement planning,Portfolio diversification","retirement,investment,long-term,tax-advantaged"
+sample_user_8,2024-03-20T17:03:00,view,Premium Home Equity Loan,0.5,True,True,"Competitive rates,Flexible terms,Quick approval,Online application,Rate lock guarantee","home equity,loans,real estate,premium"
+sample_user_8,2024-03-20T17:04:00,view,Basic Mortgage Service,0.4,True,False,"Basic mortgage service,Online application,Basic support","mortgage,loans,real estate,basic"
+sample_user_8,2024-03-20T17:05:00,view,Student Banking Account,0.3,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_8,2024-03-20T17:06:00,view,Investment Portfolio,0.2,True,False,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_9,2024-03-20T18:00:00,view,Trading Platform,0.9,True,True,"Real-time trading,Advanced analytics,Options trading,Market research,Technical analysis","trading,investment,premium,digital"
+sample_user_9,2024-03-20T18:01:00,view,Premium Investment Advisory,0.8,True,True,"Portfolio management,Market analysis,Investment strategy,Regular reviews,Performance reporting","investment,advisory,premium,professional"
+sample_user_9,2024-03-20T18:02:00,view,Options Trading Account,0.7,True,True,"Options trading,Advanced analytics,Market research,Technical analysis,Real-time data","trading,options,premium,digital"
+sample_user_9,2024-03-20T18:03:00,view,Investment Portfolio,0.6,True,False,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_9,2024-03-20T18:04:00,view,Basic Savings Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_9,2024-03-20T18:05:00,view,Student Banking Account,0.2,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_10,2024-03-20T19:00:00,view,Basic Savings Account,0.9,True,True,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_10,2024-03-20T19:01:00,view,High-Yield Savings Account,0.0,True,True,"FDIC insured,High interest rate,No monthly fees,Online access,Mobile banking","savings,high-yield,everyday banking,digital"
+sample_user_10,2024-03-20T19:02:00,view,Basic Checking Account,0.7,True,True,"FDIC insured,Online banking,Mobile app,Basic features","checking,basic,everyday banking,digital"
+sample_user_10,2024-03-20T19:03:00,view,Home Improvement Loan,0.6,True,True,"Competitive rates,Flexible terms,Quick approval,Online application,Rate lock guarantee","home improvement,loans,real estate,basic"
+sample_user_10,2024-03-20T19:04:00,view,Premium Credit Card,0.4,True,False,"Travel rewards,Cash back,Concierge service,Airport lounge access,Extended warranty","credit,rewards,travel,premium"
+sample_user_10,2024-03-20T19:05:00,view,Investment Portfolio,0.3,True,False,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_11,2024-03-20T20:00:00,view,Premium Business Banking,0.9,True,True,"Free transactions,Business credit card,Payroll services,Merchant services,Business support","business,banking,premium,commercial"
+sample_user_11,2024-03-20T20:01:00,view,Premium Business Advisory,0.8,True,True,"Business advisory,Financial analysis,Strategy development,Market research,Performance optimization","business,advisory,premium,professional"
+sample_user_11,2024-03-20T20:02:00,view,Investment Portfolio,0.7,True,True,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_11,2024-03-20T20:03:00,view,Premium Business Loan,0.6,True,True,"Flexible terms,Competitive rates,Quick approval,No prepayment penalty,Business support","business,loans,commercial,financing"
+sample_user_11,2024-03-20T20:04:00,view,Basic Business Account,0.4,True,False,"Basic business banking,Online access,Mobile app,Basic support","business,banking,basic,digital"
+sample_user_11,2024-03-20T20:05:00,view,Student Banking Account,0.3,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_12,2024-03-20T21:00:00,view,Premium Trust Services,0.9,True,True,"Asset management,Beneficiary services,Trust administration,Reporting services,Legal compliance","trust,management,premium,legal"
+sample_user_12,2024-03-20T21:01:00,view,Premium Wealth Management,0.8,True,True,"Financial planning,Investment management,Tax planning,Estate planning,Retirement planning","wealth,management,premium,advisory"
+sample_user_12,2024-03-20T21:02:00,view,Tax Planning Service,0.3166666666666666,True,True,"Tax return preparation,Tax strategy planning,Audit support,Quarterly reviews,Documentation assistance","tax,planning,professional,advisory"
+sample_user_12,2024-03-20T21:03:00,view,Estate Planning Service,0.6,True,True,"Estate planning,Will preparation,Trust creation,Asset protection,Legacy planning","estate,planning,premium,legal"
+sample_user_12,2024-03-20T21:04:00,view,Basic Tax Service,0.4,True,False,"Basic tax preparation,Online filing,Document storage,Basic support","tax,preparation,basic,digital"
+sample_user_12,2024-03-20T21:05:00,view,Student Banking Account,0.3,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_13,2024-03-20T22:00:00,view,Cryptocurrency Trading Platform,0.9,True,True,"Cryptocurrency trading,Real-time data,Advanced analytics,Market research,Technical analysis","crypto,trading,premium,digital"
+sample_user_13,2024-03-20T22:01:00,view,Trading Platform,0.8,True,True,"Real-time trading,Advanced analytics,Options trading,Market research,Technical analysis","trading,investment,premium,digital"
+sample_user_13,2024-03-20T22:02:00,view,High-Risk Investment Fund,0.7,True,True,"High-risk investments,Market speculation,Advanced analytics,Performance tracking,Investment advice","investment,high-risk,premium,digital"
+sample_user_13,2024-03-20T22:03:00,view,Options Trading Account,0.6,True,True,"Options trading,Advanced analytics,Market research,Technical analysis,Real-time data","trading,options,premium,digital"
+sample_user_13,2024-03-20T22:04:00,view,Basic Savings Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_13,2024-03-20T22:05:00,view,Student Banking Account,0.2,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_14,2024-03-20T23:00:00,view,Education Savings Account,0.9,True,True,"Tax-advantaged savings,Education planning,Investment options,Family accounts,Online access","education,savings,tax-advantaged,digital"
+sample_user_14,2024-03-20T23:01:00,view,Retirement IRA,0.8,True,True,"Tax-deferred growth,Investment options,Professional management,Retirement planning,Portfolio diversification","retirement,investment,long-term,tax-advantaged"
+sample_user_14,2024-03-20T23:02:00,view,Investment Portfolio,0.7,True,True,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_14,2024-03-20T23:03:00,view,High-Yield Savings Account,0.0,True,False,"FDIC insured,High interest rate,No monthly fees,Online access,Mobile banking","savings,high-yield,everyday banking,digital"
+sample_user_14,2024-03-20T23:04:00,view,Basic Savings Account,0.4,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_14,2024-03-20T23:05:00,view,Student Banking Account,0.3,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+sample_user_15,2024-03-21T00:00:00,view,International Investment Platform,0.9,True,True,"Global markets access,International trading,Currency exchange,Market research,Investment advice","international,investment,premium,digital"
+sample_user_15,2024-03-21T00:01:00,view,Premium Real Estate Investment,0.8,True,True,"Real estate investment,Property management,Market analysis,Portfolio diversification,Investment advice","real estate,investment,premium,digital"
+sample_user_15,2024-03-21T00:02:00,view,Investment Portfolio,0.7,True,True,"Professional management,Diversified holdings,Regular rebalancing,Performance tracking,Investment advice","investment,wealth management,long-term,premium"
+sample_user_15,2024-03-21T00:03:00,view,Premium Wealth Management,0.6,True,True,"Financial planning,Investment management,Tax planning,Estate planning,Retirement planning","wealth,management,premium,advisory"
+sample_user_15,2024-03-21T00:04:00,view,Basic Savings Account,0.3,True,False,"FDIC insured,Online banking,Mobile app,No minimum balance","savings,basic,everyday banking,digital"
+sample_user_15,2024-03-21T00:05:00,view,Student Banking Account,0.2,True,False,"No monthly fees,Online banking,Mobile app,Student benefits","student,banking,everyday banking,digital"
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:08:09.793207,feedback,Premium Wealth Planning,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:08:20.202618,feedback,Premium Wealth Strategy,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:08:30.679003,feedback,Premium Wealth Advisory,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:08:40.923780,feedback,Premium Wealth Management,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:08:51.328907,feedback,Investment Portfolio,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:09:02.573204,feedback,Premium Financial Planning,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:09:14.303965,feedback,Premium Investment Advisory,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:09:25.442145,feedback,Premium Financial Strategy,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:09:36.333203,feedback,Premium Investment Planning,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:09:48.447438,feedback,Premium Financial Advisory,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:09:59.015391,feedback,Premium Investment Strategy,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:10:11.259780,feedback,Premium Business Advisory,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:28:02.221240,feedback,Premium Trust Planning,0.19999999999999998,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:28:20.723702,feedback,Premium Investment Portfolio,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:28:39.238172,feedback,Premium Business Planning,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:28:58.482322,feedback,Premium Trust Advisory,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:29:15.720490,feedback,Premium Business Strategy,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:29:35.424392,feedback,Premium Trust Strategy,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:29:55.252680,feedback,Premium Mortgage Strategy,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:30:15.203614,feedback,High-Yield Savings Account,0.0,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:30:37.132788,feedback,Premium Portfolio Management,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:30:57.319288,feedback,Robo-Advisor Portfolio,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:31:16.769875,feedback,Estate Planning Service,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:31:37.580116,feedback,Premium Mortgage Planning,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:31:57.838727,feedback,Tax Planning Service,0.3166666666666666,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:32:17.894422,feedback,Premium Trust Administration,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:32:45.317077,feedback,Retirement IRA,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:33:06.981560,feedback,Premium Mortgage Advisory,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:33:26.348672,feedback,Premium Business Banking,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:33:46.423701,feedback,Premium Trust Services,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:39:50.576457,feedback,Premium Business Loan,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:40:06.899233,feedback,Home Equity Line of Credit,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:40:24.243876,feedback,Premium Life Insurance,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:40:43.447667,feedback,Money Market Account,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:41:01.592689,feedback,Basic Savings Account,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:41:22.842056,feedback,Health Savings Account,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:41:45.969834,feedback,Premium Mortgage Service,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:42:07.967187,feedback,Premium Auto Insurance,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:42:31.519559,feedback,Premium Credit Card,0.5,True,True,,
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,2025-03-26 17:42:55.504335,feedback,Student Loan Refinancing,0.5,True,True,,

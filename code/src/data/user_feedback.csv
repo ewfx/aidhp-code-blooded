@@ -1,0 +1,4 @@
+user_id,product_name,timestamp,relevance,clarity,value,complexity,risk_level,cost,overall_score
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,High-Yield Savings Account,2025-03-26T18:13:10.459632,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,Tax Planning Service,2025-03-26T18:44:10.679453,0.0,1.0,0.0,0.0,0.0,0.9,0.3166666666666666
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,Premium Trust Planning,2025-03-26T20:17:25.533504,0.0,0.0,1.0,0.0,0.0,0.2,0.19999999999999998

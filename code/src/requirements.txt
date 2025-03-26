@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+pandas
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+python-dotenv
+plotly
+joblib

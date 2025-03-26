@@ -1,0 +1,17 @@
+user_id,income_level,risk_tolerance,financial_goals,preferred_services,banking_frequency,last_updated
+sample_user_1,Medium,Moderate,"Save for Retirement,Build Emergency Fund","Savings Account,Investment Services",Monthly,2024-03-20T10:00:00
+sample_user_2,High,Aggressive,"Invest for Growth,Generate Passive Income","Investment Services,Wealth Management",Weekly,2024-03-20T11:00:00
+sample_user_3,Low,Conservative,"Build Emergency Fund,Save for House","Savings Account,Basic Banking",Weekly,2024-03-20T12:00:00
+sample_user_4,High,Moderate,"Tax Planning,Wealth Preservation","Tax Planning,Wealth Management",Monthly,2024-03-20T13:00:00
+sample_user_5,Medium,Aggressive,"Invest for Growth,Retirement Planning","Investment Services,Retirement Planning",Weekly,2024-03-20T14:00:00
+sample_user_6,Low,Conservative,"Save for Education,Build Emergency Fund","Savings Account,Student Banking",Monthly,2024-03-20T15:00:00
+sample_user_7,High,Moderate,"Business Growth,Wealth Management","Business Banking,Wealth Management",Weekly,2024-03-20T16:00:00
+sample_user_8,Medium,Conservative,"Save for House,Retirement Planning","Savings Account,Mortgage Services",Monthly,2024-03-20T17:00:00
+sample_user_9,High,Aggressive,"Day Trading,Options Trading","Trading Platform,Investment Services",Daily,2024-03-20T18:00:00
+sample_user_10,Low,Conservative,"Save for Wedding,Home Renovation","Savings Account,Basic Banking",Weekly,2024-03-20T19:00:00
+sample_user_11,Medium,Moderate,"Start Business,Investment Growth","Business Banking,Investment Services",Weekly,2024-03-20T20:00:00
+sample_user_12,High,Conservative,"Estate Planning,Wealth Preservation","Trust Services,Wealth Management",Monthly,2024-03-20T21:00:00
+sample_user_13,Low,Aggressive,"Cryptocurrency Investment,High-Risk Growth","Trading Platform,Investment Services",Daily,2024-03-20T22:00:00
+sample_user_14,Medium,Moderate,"Save for College,Retirement Planning","Education Savings,Investment Services",Monthly,2024-03-20T23:00:00
+sample_user_15,High,Aggressive,"International Investment,Real Estate","Investment Services,Real Estate Services",Weekly,2024-03-21T00:00:00
+8b4e0b2c-9f73-4686-a6c4-0b08c3ca2b36,Very High,Very Aggressive,"Build Emergency Fund,Save for Retirement","Stocks,Money Market Account,Online Banking,Mutual Funds",Daily,2025-03-26T20:17:49.952491
