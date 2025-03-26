@@ -1,11 +1,11 @@
 # Banking Personalization System
 
-A hyper-personalization system for baking enthusiasts that provides personalized recipe recommendations, baking tips, and techniques using advanced AI models.
+A hyper-personalization system for banking enthusiasts that provides personalized banking tips, and techniques using advanced AI models.
 
 ## Features
 
 - Personalized recipe recommendations based on user preferences
-- Baking technique suggestions
+- banking technique suggestions
 - Ingredient substitution recommendations
 - Difficulty level assessment
 - Interactive user interface
