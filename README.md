@@ -1,4 +1,4 @@
-# Baking Personalization System
+# Banking Personalization System
 
 A hyper-personalization system for baking enthusiasts that provides personalized recipe recommendations, baking tips, and techniques using advanced AI models.
 
